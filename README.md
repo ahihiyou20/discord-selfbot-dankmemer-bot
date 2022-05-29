@@ -23,7 +23,8 @@ An Advanced Dank Memer Selfbot Helps You To Earn Coins Automatically!
 
 
 ## Features
--Automatically Sleep For A While To Avoid Ban From Dank Memer (Still Don't Know If Dank Memer Has A Captcha System)
+
+- Automatically Sleep For A While To Avoid Ban From Dank Memer (Still Don't Know If Dank Memer Has A Captcha System)
 - Automatically Use Interactions Commands (Like pls trivia, pls search, ect... Btw Please Enter The GuildID If You Want To Use This Features Instead "YES")
 - Automatically Turn Off (Yes This Is Optional)
 - Automatically Fish, Hunt, Beg (Also It'll Buy Missing Items For You If Necessary)
