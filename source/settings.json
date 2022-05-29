@@ -1,9 +1,9 @@
 {
-    'token': 'nothing',
-    'channel': 'nothing',
-    'allowedid': 'None',
-    'prefix': '.',
-    'daily': 'YES',
-    'stop': 'NO',
-    'interactions': 'NO'
+    "token": "nothing",
+    "channel": "nothing",
+    "allowedid": "None",
+    "prefix": ".",
+    "daily": "YES",
+    "stop": "NO",
+    "interactions": "NO"
 }
