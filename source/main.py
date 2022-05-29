@@ -369,7 +369,7 @@ def loopie(resp):
        break
     else:
       runner()
-       if time.time() - main > random.randint(300, 600) and client.stopped != True:
+      if time.time() - main > random.randint(300, 600) and client.stopped != True:
         main=time.time()
         print(f"{at()}{client.color.okblue} [INFO]{client.color.reset} Sleeping To Avoid Ban")
         time.sleep(random.randint(120, 180))
