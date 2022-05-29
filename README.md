@@ -2,7 +2,8 @@
 # Discord Dank Memer Selfbot
 
 An Advanced Dank Memer Selfbot Helps You To Earn Coins Automatically!
-[Oh Also Checkout My OwO Selfbot!](https://github.com/ahihiyou20/discord-selfbot-owo-bot)
+
+* ### [Oh Also Checkout My OwO Selfbot!](https://github.com/ahihiyou20/discord-selfbot-owo-bot)
 
 * ### [Download Lastest Release](https://github.com/ahihiyou20/discord-selfbot-dankmemer-bot/tags)
 [![GitHub issues](https://img.shields.io/github/issues/ahihiyou20/discord-selfbot-dankmemer-bot?label=Open%20%C4%B0ssues)](https://github.com/ahihiyou20/discord-selfbot-dankmemer-bot/issues)
