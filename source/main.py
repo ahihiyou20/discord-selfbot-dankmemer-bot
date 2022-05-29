@@ -58,7 +58,6 @@ class client:
         channel = data["channel"]
         daily = data["daily"]
         stop = data['stop']
-        sm = data['sm']
         prefix = data['prefix']
         allowedid = data['allowedid']
         interactions = data['interactions']
@@ -369,9 +368,10 @@ def loopie(resp):
        break
     else:
       runner()
-      if time.time() - main > random.randint(300, 600) and client.stopped != True:
+      if client.sm.lower() != "no":
+       if time.time() - main > random.randint(300, 600) and client.stopped != True:
         main=time.time()
-        print(f"{at()}{client.color.okblue} [INFO]{client.color.reset} Sleeping To Avoid Ban")
+        print(f"{at()}{client.color.okblue} [INFO]{client.color.reset} Sleeping")
         time.sleep(random.randint(120, 180))
       if time.time() - daily_time > int(client.wait_time_daily) and client.stopped != True:
         claim_daily()
