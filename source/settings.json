@@ -5,5 +5,5 @@
     'prefix': '.',
     'daily': 'YES',
     'stop': 'NO',
-    'interactions': 'NO',
+    'interactions': 'NO'
 }
