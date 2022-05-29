@@ -1,0 +1,11 @@
+Current version: 1.0.0
+
+- Alr This Is The First Version Of Discord Selfbot Dankmemer Bot!
+- This Version's Features:
+ + Automatically Sleep For A While To Avoid Ban From Dank Memer (Still Don't Know If Dank Memer Has A Captcha System)
+ + Automatically Use Interactions Commands (Like pls trivia, pls search, ect... Btw Please Enter The GuildID If You Want To Use This Features Instead "YES")
+ + Automatically Turn Off (Yes This Is Optional)
+ + Automatically Fish, Hunt, Beg (Also It'll Buy Missing Items For You If Necessary)
+ + And MORE...! (Idk If There's More But I'll Add More Features Soon)
+Thanks For Using My Selfbot!
+Also Use The Selfbot At Your Own Risk!
