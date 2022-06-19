@@ -89,7 +89,7 @@ I Don't Know... Dank Memer Doesn't Have A Proper Captcha System Or Verification 
 
 Yes, Termux Apps Can Run Python Codes And Others Programming Language Like Git Or Javascript. You Can Use It To Install The Selfbot With The Given Tutorial. More Information: https://termux.com/
 
-Have More Questions? Feel Free To Open Issues Or Contact Me On Discord: Mai Sakurajima#0348 
+Have More Questions? Feel Free To Open Issues Or Contact Me On Discord: Saki Saki#0348 
 ## License
 
 [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
